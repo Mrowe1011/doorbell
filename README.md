@@ -1,0 +1,1 @@
+This app was deployed to a Raspberry Pi with a systemctl job to have it running continously. It uses the pysteams library to utilize the Micrsoft Teams API to send a message when the LDR detects a break in the beam.
